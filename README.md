@@ -1,4 +1,4 @@
-# IPTV
+# IPTV (Alexis Mirror)
 
 [![auto-update](https://github.com/iptv-org/iptv/actions/workflows/auto-update.yml/badge.svg)](https://github.com/iptv-org/iptv/actions/workflows/auto-update.yml)
 
